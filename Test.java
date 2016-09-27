@@ -1,6 +1,9 @@
 public class Test{
-	public void d(){
-	}
+ 
+    pubic void v(){
+		dfsdfsd
+    }
+ 
     public static void main(String[] agrs){
         new Test();
     }
